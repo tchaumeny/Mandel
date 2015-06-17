@@ -7,9 +7,9 @@ and includes a light expression parser to let you define your own formulas.
 Usage
 -----
 
-Build it with Maven::
+Build it with Gradle::
 
-    $ mvn package
+    $ gradle build
 
 And then::
 
